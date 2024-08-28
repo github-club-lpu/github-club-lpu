@@ -84,30 +84,6 @@ The **GitHub Club LPU** was founded to bridge the gap between academic learning 
 
 ---
 
-## 🛠 Resources We Leverage
-
-- **University Labs:** For workshops, meetings, and hackathons.
-- **Administrative Support:** Ensuring smooth operations.
-- **Tech Collaborations:** Expanding our reach through strategic partnerships.
-
----
-
-## 📅 What’s Next?
-
-### **Immediate Actions:**
-1. **🎉 Recruitment:** Join us by filling out the [membership form](#).
-2. **📅 First Meeting:** Attend our upcoming introductory meeting.
-3. **🌐 Social Media Presence:** Follow us on [LinkedIn](https://www.linkedin.com) and [Instagram](https://www.instagram.com) for updates.
-
-![Next Steps Animation](https://media.giphy.com/media/l0HlGdA9Lvc77fZRq/giphy.gif)
-
----
-
-## 📢 Get Involved
-
-Whether you're a student eager to learn, a faculty member looking to support, or a professional willing to mentor, there's a place for you at **GitHub Club LPU**. Join us in building a tech-savvy, innovative community.
-
----
 
 ## 🌐 Connect With Us
 
