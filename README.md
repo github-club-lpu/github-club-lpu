@@ -1,6 +1,6 @@
 # 🚀 Welcome to **GitHub Club LPU** 🎓
 
-![GitHub Club LPU Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+GitHub+Club+LPU) 
+![Welcome Animation](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
 ## 🌟 Empowering the Future of Tech at Lovely Professional University
 
@@ -9,6 +9,8 @@ Welcome to the **GitHub Club LPU**! We are a dynamic community of tech enthusias
 ---
 
 ## 🎯 Our Vision
+
+![Vision Animation](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
 We aim to build a **thriving tech community** that fosters innovation, creativity, and continuous learning. Our club is a gateway for students to enhance their technical expertise and contribute to impactful open-source projects.
 
@@ -22,6 +24,8 @@ We aim to build a **thriving tech community** that fosters innovation, creativit
 
 ## 🚀 How It All Began
 
+![Start Animation](https://media.giphy.com/media/26gsiCIKW7ANEmxKE/giphy.gif)
+
 The **GitHub Club LPU** was founded to bridge the gap between academic learning and real-world applications. With the support of GitHub Campus Experts and industry mentors, we formed a core committee of passionate students to lead the way.
 
 ### **Our Launch Steps:**
@@ -33,6 +37,8 @@ The **GitHub Club LPU** was founded to bridge the gap between academic learning 
 ---
 
 ## 🎉 What We Offer
+
+![Offer Animation](https://media.giphy.com/media/3oKHWsntZ5U5mDEEt6/giphy.gif)
 
 ### **⚙️ Hands-On Workshops**
 - Learn Git commands, GitHub workflows, and best practices in version control.
@@ -69,6 +75,8 @@ The **GitHub Club LPU** was founded to bridge the gap between academic learning 
 
 ## 👥 Meet the Team
 
+![Team Animation](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
+
 ### **Founder & Technical Lead**
 - **[Your Name]** - Passionate about innovation and building a collaborative tech community.
 
@@ -76,8 +84,6 @@ The **GitHub Club LPU** was founded to bridge the gap between academic learning 
 - **[Member 1 Name]** - Role Description
 - **[Member 2 Name]** - Role Description
 - **[Member 3 Name]** - Role Description
-
-![Team Collaboration](https://via.placeholder.com/800x200.png?text=Team+Collaboration)
 
 ---
 
@@ -96,7 +102,7 @@ The **GitHub Club LPU** was founded to bridge the gap between academic learning 
 2. **📅 First Meeting:** Attend our upcoming introductory meeting.
 3. **🌐 Social Media Presence:** Follow us on [LinkedIn](https://www.linkedin.com) and [Instagram](https://www.instagram.com) for updates.
 
-![GitHub Club Activities](https://via.placeholder.com/800x300.png?text=Join+Our+Activities)
+![Next Steps Animation](https://media.giphy.com/media/l0HlGdA9Lvc77fZRq/giphy.gif)
 
 ---
 
