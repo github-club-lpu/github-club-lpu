@@ -10,7 +10,6 @@ Welcome to the **GitHub Club LPU**! We are a dynamic community of tech enthusias
 
 ## 🎯 Our Vision
 
-![Vision Animation](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
 We aim to build a **thriving tech community** that fosters innovation, creativity, and continuous learning. Our club is a gateway for students to enhance their technical expertise and contribute to impactful open-source projects.
 
@@ -24,7 +23,6 @@ We aim to build a **thriving tech community** that fosters innovation, creativit
 
 ## 🚀 How It All Began
 
-![Start Animation](https://media.giphy.com/media/26gsiCIKW7ANEmxKE/giphy.gif)
 
 The **GitHub Club LPU** was founded to bridge the gap between academic learning and real-world applications. With the support of GitHub Campus Experts and industry mentors, we formed a core committee of passionate students to lead the way.
 
@@ -75,7 +73,6 @@ The **GitHub Club LPU** was founded to bridge the gap between academic learning 
 
 ## 👥 Meet the Team
 
-![Team Animation](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
 
 ### **Founder & Technical Lead**
 - **[Your Name]** - Passionate about innovation and building a collaborative tech community.
