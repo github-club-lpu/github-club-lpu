@@ -36,8 +36,6 @@ The **GitHub Club LPU** was founded to bridge the gap between academic learning 
 
 ## 🎉 What We Offer
 
-![Offer Animation](https://media.giphy.com/media/3oKHWsntZ5U5mDEEt6/giphy.gif)
-
 ### **⚙️ Hands-On Workshops**
 - Learn Git commands, GitHub workflows, and best practices in version control.
 
