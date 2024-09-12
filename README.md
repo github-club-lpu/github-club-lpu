@@ -73,12 +73,13 @@ The **GitHub Club LPU** was founded to bridge the gap between academic learning 
 
 
 ### **Founder & Technical Lead**
-- **[Your Name]** - Passionate about innovation and building a collaborative tech community.
+- **Chandan** - Founder
+- **Vishant** - CEO
 
 ### **Core Team Members**
-- **[Member 1 Name]** - Role Description
-- **[Member 2 Name]** - Role Description
-- **[Member 3 Name]** - Role Description
+- **Aarushi Thakur** - Co-CEO
+- **Muhammed Hisham** - CTO
+- **Yashwant** - Head of Content Creation 
 
 ---
 
