@@ -91,8 +91,7 @@ Follow us on social media to stay updated with our latest events and opportuniti
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
 
-![GitHub Club Footer]([https://via.placeholder.com/1200x200.png?text=Join+GitHub+Club+LPU](https://media.licdn.com/dms/image/v2/D560BAQHFenrRE_e-xA/company-logo_200_200/company-logo_200_200/0/1724675743567/github_lpu_logo?e=1733961600&v=beta&t=eToezn5jtlVs4Nsh64k5Q-qGqPPb3vdKSdNDppYaF1I))
-
+![GitHub Club Footer]([https://via.placeholder.com/1200x200.png?text=Join+GitHub+Club+LPU])
 ---
 
 ## 📝 License
